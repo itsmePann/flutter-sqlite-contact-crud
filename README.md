@@ -11,7 +11,6 @@
     &nbsp;&nbsp;&nbsp;
   <img src=" https://github.com/user-attachments/assets/b1efb69f-22f0-4129-ba16-fae82c50e998" width="220" alt="SqLite Result"/>
     &nbsp;&nbsp;&nbsp;
- 
 </p>
 
 
